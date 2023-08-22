@@ -4,7 +4,7 @@
 
 ### Project Objectives
 
-1. Develop a [customer performance report](link-to-customer-performance-report.pdf) to assess customer engagement.
+1. Develop a [customer performance report](https://github.com/Vishal1garg/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf) to assess customer engagement.
 2. Conduct a comprehensive comparison between [market performance and sales targets](link-to-market-performance-report.pdf).
 
 ### Purpose of Sales Analytics
