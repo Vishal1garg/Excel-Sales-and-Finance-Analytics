@@ -5,7 +5,7 @@
 ### Project Objectives
 
 1. Develop a [customer performance report](https://github.com/Vishal1garg/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf) to assess customer engagement.
-2. Conduct a comprehensive comparison between [market performance and sales targets](link-to-market-performance-report.pdf).
+2. Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/Vishal1garg/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf).
 
 ### Purpose of Sales Analytics
 Enhance businesses' ability to monitor and evaluate sales activities and achievements.
@@ -22,8 +22,8 @@ Identify sales trends and monitor key performance indicators (KPIs).
 
 ### Project Objectives
 
-1. Generate Profit and Loss (P&L) reports categorized by [Fiscal Year](link-to-P%26L-by-fiscal-year.pdf) & [Months](link-to-P%26L-by-months.pdf).
-2. Create Profit and Loss (P&L) reports segmented by [Markets](link-to-P%26L-by-markets.pdf).
+1. Generate Profit and Loss (P&L) reports categorized by [Fiscal Year](https://github.com/Vishal1garg/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [Months](https://github.com/Vishal1garg/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf).
+2. Create Profit and Loss (P&L) reports segmented by [Markets](https://github.com/Vishal1garg/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf).
 
 ### Purpose of Finance Analytics
 Evaluate financial performance, support decision-making, and engage stakeholders effectively.
