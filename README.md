@@ -51,4 +51,4 @@ Benchmark against industry peers and historical data, providing a foundation for
 - Optimizing report generation through meticulous fine-tuning.
 - Developing a structured approach to formulate report building strategies.
 
-Feel free to contact me at [your-email@example.com](mailto:your-email@example.com) for any questions or collaboration opportunities related to this project.
+Feel free to contact me at [email](vishalgarg260698@gmail.com) for any questions or comments regarding the project.
