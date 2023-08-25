@@ -4,8 +4,8 @@
 
 ### Project Objectives
 
-1. Developed a [customer performance report](https://github.com/Vishal1garg/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf) to assess customer engagement.
-2. Conducted a comprehensive comparison between [market performance and sales targets](https://github.com/Vishal1garg/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf).
+1. Develop a [customer performance report](https://github.com/Vishal1garg/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf) to assess customer engagement.
+2. Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/Vishal1garg/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf).
 
 ### Purpose of Sales Analytics
 Enhanced businesses' ability to monitor and evaluate sales activities and achievements.
@@ -14,26 +14,26 @@ Enhanced businesses' ability to monitor and evaluate sales activities and achiev
 Identified sales trends and monitor key performance indicators (KPIs).
 
 ### Role of Reports
-- Determined optimal customer discounts.
-- Facilitated negotiations with consumers.
-- Identified potential expansion opportunities in promising markets.
+- Determine optimal customer discounts.
+- Facilitate negotiations with consumers.
+- Identify potential expansion opportunities in promising markets.
 
 ## Finance Report
 
 ### Project Objectives
 
-1. Generated Profit and Loss (P&L) reports categorized by [Fiscal Year](https://github.com/Vishal1garg/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [Months](https://github.com/Vishal1garg/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf).
-2. Created Profit and Loss (P&L) reports segmented by [Markets](https://github.com/Vishal1garg/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf).
+1. Generate Profit and Loss (P&L) reports categorized by [Fiscal Year](https://github.com/Vishal1garg/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [Months](https://github.com/Vishal1garg/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf).
+2. Create Profit and Loss (P&L) reports segmented by [Markets](https://github.com/Vishal1garg/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf).
 
 ### Purpose of Finance Analytics
-Evaluated financial performance, support decision-making, and engage stakeholders effectively.
+Evaluate financial performance, support decision-making, and engage stakeholders effectively.
 
 ### Importance of Analyzing Finance Data
 Benchmark against industry peers and historical data, providing a foundation for budgeting and forecasting.
 
 ### Role of Reports
-- Aligned financial planning with strategic goals.
-- Instilled confidence in the organization's financial outlook.
+- Align financial planning with strategic goals.
+- Instill confidence in the organization's financial outlook.
 
 ## Technical & Soft Skills
 
